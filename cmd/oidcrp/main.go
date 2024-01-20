@@ -6,7 +6,7 @@ import (
 	"log/slog"
 
 	"github.com/google/uuid"
-	"github.com/zitadel/oidc/pkg/oidc"
+	"github.com/zitadel/oidc/v3/pkg/oidc"
 	"github.com/zitadel/zitadel-go/v3/pkg/client"
 	"github.com/zitadel/zitadel-go/v3/pkg/client/zitadel/app"
 	"github.com/zitadel/zitadel-go/v3/pkg/client/zitadel/management"

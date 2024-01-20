@@ -4,7 +4,6 @@ go 1.21.6
 
 require (
 	github.com/google/uuid v1.5.0
-	github.com/zitadel/oidc v1.13.5
 	github.com/zitadel/oidc/v3 v3.10.3
 	github.com/zitadel/zitadel-go/v3 v3.0.0-next.2
 	google.golang.org/protobuf v1.32.0
@@ -31,6 +30,5 @@ require (
 	google.golang.org/genproto/googleapis/api v0.0.0-20240116215550-a9fa1716bcac // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20240116215550-a9fa1716bcac // indirect
 	google.golang.org/grpc v1.60.1 // indirect
-	gopkg.in/square/go-jose.v2 v2.6.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
