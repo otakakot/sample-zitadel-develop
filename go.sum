@@ -25,6 +25,8 @@ github.com/google/gofuzz v1.2.0 h1:xRy4A+RhZaiKjJ1bPfwQ8sedCA+YS2YcCHW6ec7JMi0=
 github.com/google/gofuzz v1.2.0/go.mod h1:dBl0BpW6vV/+mYPU4Po3pmUjxk6FQPldtuIdl/M65Eg=
 github.com/google/uuid v1.5.0 h1:1p67kYwdtXjb0gL0BPiP1Av9wiZPo5A8z2cWkTZ+eyU=
 github.com/google/uuid v1.5.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
 github.com/gorilla/securecookie v1.1.2 h1:YCIWL56dvtr73r6715mJs5ZvhtnY73hBvEF8kXD8ePA=
 github.com/gorilla/securecookie v1.1.2/go.mod h1:NfCASbcHqRSY+3a8tlWJwsQap2VX5pwzwo4h3eOamfo=
 github.com/grpc-ecosystem/grpc-gateway/v2 v2.19.0 h1:Wqo399gCIufwto+VfwCSvsnfGpF/w5E9CNxSwbpD6No=
@@ -51,6 +53,8 @@ github.com/zitadel/logging v0.5.0 h1:Kunouvqse/efXy4UDvFw5s3vP+Z4AlHo3y8wF7stXHA
 github.com/zitadel/logging v0.5.0/go.mod h1:IzP5fzwFhzzyxHkSmfF8dsyqFsQRJLLcQmwhIBzlGsE=
 github.com/zitadel/oidc/v3 v3.10.3 h1:3H965coNbDviMmpSpYTwEKYs6+Etqvp+f1pYA1v70LU=
 github.com/zitadel/oidc/v3 v3.10.3/go.mod h1:LaT6napJ1AxXJxXnt/OLpWdUGq9wuH9Ew0jvBQvdkYY=
+github.com/zitadel/oidc/v3 v3.11.0 h1:g3sOT1ith+Yc8ExDrywe0WJLKg7Fvhs7txiYX3fEcWY=
+github.com/zitadel/oidc/v3 v3.11.0/go.mod h1:UehVNuuqOYrBSFqNeHLzCpt+/Wd+LI0c9Ok87UEO73g=
 github.com/zitadel/schema v1.3.0 h1:kQ9W9tvIwZICCKWcMvCEweXET1OcOyGEuFbHs4o5kg0=
 github.com/zitadel/schema v1.3.0/go.mod h1:NptN6mkBDFvERUCvZHlvWmmME+gmZ44xzwRXwhzsbtc=
 github.com/zitadel/zitadel-go/v3 v3.0.0-next.2 h1:w0lnLvijwQwkrUEA74loenNR9udRAaq6rccjlMSA+4U=
