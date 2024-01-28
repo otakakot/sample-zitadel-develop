@@ -23,7 +23,7 @@ services:
   zitadel:
     container_name: ${APP_NAME}-zitadel
     restart: always
-    image: ghcr.io/zitadel/zitadel:v2.43.5
+    image: ghcr.io/zitadel/zitadel:v2.44.0
     command: 'start-from-init --masterkey "MasterkeyNeedsToHave32Characters" --tlsMode disabled'
     environment:
       - 'ZITADEL_DATABASE_COCKROACH_HOST=cockroachdb'
