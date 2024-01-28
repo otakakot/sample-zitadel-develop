@@ -45,7 +45,7 @@ services:
   cockroachdb:
     container_name: ${APP_NAME}-cockroachdb
     restart: always
-    image: cockroachdb/cockroach:v23.1.13
+    image: cockroachdb/cockroach:v23.1.14
     command: 'start-single-node --insecure'
     healthcheck:
       test: ["CMD", "curl", "-f", "http://localhost:8080/health?ready=1"]
