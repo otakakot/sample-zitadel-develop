@@ -4,7 +4,7 @@ go 1.21.6
 
 require (
 	github.com/google/uuid v1.6.0
-	github.com/zitadel/oidc/v3 v3.11.0
+	github.com/zitadel/oidc/v3 v3.11.1
 	github.com/zitadel/zitadel-go/v3 v3.0.0-next.2
 	google.golang.org/protobuf v1.32.0
 )
