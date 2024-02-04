@@ -32,7 +32,7 @@ github.com/sirupsen/logrus
 # github.com/zitadel/logging v0.5.0
 ## explicit; go 1.19
 github.com/zitadel/logging
-# github.com/zitadel/oidc/v3 v3.11.0
+# github.com/zitadel/oidc/v3 v3.11.1
 ## explicit; go 1.19
 github.com/zitadel/oidc/v3/pkg/client
 github.com/zitadel/oidc/v3/pkg/client/profile
